@@ -4,7 +4,7 @@
 
 ## 学习目标
 
-1. 掌握gcc的基本使用，了解gcc编译的全过程
+1. 掌握gcc的基本使用
 2. 掌握部分如`C_INCLUDE_DIR`, `LIBRARY_PATH`, `LD_LIBRARY_PATH`等编译相关环境变量的使用
 3. 熟悉objdump和readelf的使用
 4. 熟悉GDB调试程序的过程和常用的指令
